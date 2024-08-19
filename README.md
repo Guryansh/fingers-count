@@ -1,7 +1,7 @@
 
-# Face Position
+# Fingers Count
 
-Landing.AI Model for Face Position Prediction using Classification
+Landing.AI Model for Fingers Count Prediction using Classification
 
 ## Authors
 
